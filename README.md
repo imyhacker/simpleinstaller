@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/45889833/98375523-cba7d080-2074-11eb-9389-5b59043dc4bf.png)
+
+
 # SimpleInstaller
 Adalah sebuah tools simple dan sederhana untuk mempermudah penginstallan module Web Server Pada Ubuntu Dan Debian.
 
