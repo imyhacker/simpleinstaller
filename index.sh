@@ -1,4 +1,14 @@
 #!/bin/bash
+
+
+
+#    .:SimpleInstaller:.
+#   Crafted By Arikun - IndoSec
+# U Know ? This SCRIPT Has A Copyright ? PLEASE DON'T RECODE ! 
+# If U Want A Recode, Please ADD Real Author And Fork This Repo !
+# Regads, Arikun
+# Copyright(C)2020-2021 - Arikun
+
 clear;
 echo "
 .:Simple Installer:.
